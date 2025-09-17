@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376065213371",
+    "project_id": "chef-s-place",
+    "storage_bucket": "chef-s-place.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376065213371:android:90aceaec489d79a1d3fa9e",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhYoN6U7HU55enQ7rueod1uBmu0f-rDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
